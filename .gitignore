@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+.vscode/
+.cache/
+.env
+.DS_Store
+.parcel-cache/
+.postcssrc
+tailwind.config.js
